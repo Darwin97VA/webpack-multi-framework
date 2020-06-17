@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'myfont';
+    src: url('/fonts/font.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.titulo {
+    h1 {
+        color: red;
+        font-family: 'myfont';
+    }
+}
