@@ -39,7 +39,7 @@
     "@vaadin/vaadin-radio-button": "^1.5.0-alpha1",
     "@vaadin/vaadin-text-field": "^2.6.1",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "vue": "^2.6.11"
